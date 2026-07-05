@@ -1,0 +1,20 @@
+body {
+    background: url("https://images.unsplash.com/photo-1521412644187-c49fa049e84d") center/cover no-repeat;
+}
+
+.card {
+    background: rgba(0, 229, 255, 0.12);
+    border: 1px solid #00e5ff;
+    box-shadow: 0 0 15px #00e5ff44;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 25px #00e5ff;
+}
+
+header h1 {
+    text-align: center;
+    padding: 30px;
+    color: #00e5ff;
+}
