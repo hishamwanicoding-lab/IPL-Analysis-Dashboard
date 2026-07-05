@@ -1,0 +1,21 @@
+match_id,date,team1,team2,venue,team1_score,team2_score,winner,margin,player_of_match
+1,2025-03-22,RCB,KKR,Kolkata,182,176,RCB,6 runs,Virat Kohli
+2,2025-03-23,MI,CSK,Mumbai,178,181,CSK,3 wickets,Ruturaj Gaikwad
+3,2025-03-24,RR,SRH,Jaipur,192,198,SRH,6 wickets,Travis Head
+4,2025-03-25,GT,PBKS,Ahmedabad,185,172,GT,13 runs,Shubman Gill
+5,2025-03-26,LSG,DC,Lucknow,174,177,DC,3 wickets,KL Rahul
+6,2025-03-27,KKR,MI,Kolkata,196,189,KKR,7 runs,Andre Russell
+7,2025-03-28,RCB,CSK,Bengaluru,201,194,RCB,7 runs,Virat Kohli
+8,2025-03-29,PBKS,RR,Mullanpur,181,184,RR,5 wickets,Sanju Samson
+9,2025-03-30,SRH,GT,Hyderabad,208,195,SRH,13 runs,Abhishek Sharma
+10,2025-03-31,DC,LSG,Delhi,170,165,DC,5 runs,Axar Patel
+11,2025-04-01,MI,RCB,Mumbai,188,184,MI,4 runs,Suryakumar Yadav
+12,2025-04-02,CSK,GT,Chennai,176,172,CSK,4 runs,Ravindra Jadeja
+13,2025-04-03,KKR,PBKS,Kolkata,199,180,KKR,19 runs,Sunil Narine
+14,2025-04-04,RR,DC,Jaipur,185,182,RR,3 runs,Yashasvi Jaiswal
+15,2025-04-05,SRH,LSG,Hyderabad,210,201,SRH,9 runs,Heinrich Klaasen
+16,2025-04-06,GT,MI,Ahmedabad,191,193,MI,2 wickets,Jasprit Bumrah
+17,2025-04-07,CSK,RCB,Chennai,182,176,CSK,6 runs,MS Dhoni
+18,2025-04-08,PBKS,SRH,Mullanpur,179,181,SRH,4 wickets,Pat Cummins
+19,2025-04-09,DC,KKR,Delhi,188,186,DC,2 runs,Kuldeep Yadav
+20,2025-04-10,LSG,RR,Lucknow,172,174,RR,5 wickets,Riyan Parag
